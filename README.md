@@ -97,22 +97,8 @@ Open the URL shown in the terminal (usually `http://127.0.0.1:5000`) in your bro
 - Add more regional languages
 - Add a research/community section for collaboration
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome. Fork the repo, create a branch and open a pull request.
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE.md` for details.
-
-## 🙏 Acknowledgments
-
-- Ministry of AYUSH, Student Innovation Hackathon (SIH1343) for the problem statement
-- Jaypee University of Information Technology (JUIT)
-- Open-source medicinal plant image datasets used for training
-
 ## 📬 Contact
 
-**Riss**
+**Rishabh Gupta**
 GitHub: [rissssgpt](https://github.com/rissssgpt)
 Live App: [pmvd.netlify.app](https://pmvd.netlify.app/)
